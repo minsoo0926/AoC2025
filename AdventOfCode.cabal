@@ -16,5 +16,5 @@ executable AdventOfCode
     main-is:          Main.hs
     build-depends:    base ^>=4.18.3.0, mtl, containers, split
     hs-source-dirs:   app
-    other-modules:    Aoc1, Aoc2, Aoc3, Aoc4, Aoc5, Aoc6, Aoc7, Aoc8
+    other-modules:    Aoc1, Aoc2, Aoc3, Aoc4, Aoc5, Aoc6, Aoc7, Aoc8, Aoc9
     default-language: Haskell2010

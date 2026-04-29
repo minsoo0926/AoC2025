@@ -1,6 +1,6 @@
 module Main where
 
-import qualified Aoc8
+import qualified Aoc9
 
 main :: IO ()
-main = Aoc8.main
+main = Aoc9.main
